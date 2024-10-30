@@ -1,3 +1,9 @@
+[![NASA Badges](https://img.shields.io/badge/NASA%20Badges-Certified-FF0000?style=flat&logo=nasa)](https://www.nasa.gov/education/badges)
+[![European Space Agency (ESA) Education Badges](https://img.shields.io/badge/ESA%20Education%20Badges-Certified-0072C6?style=flat&logo=esa)](https://www.esa.int/Education/Badges)
+[![International Space Station (ISS) National Lab Badges](https://img.shields.io/badge/ISS%20National%20Lab%20Badges-Certified-00A3E0?style=flat&logo=iss)](https://www.issnationallab.org/education/badges/)
+[![Space Foundation Education Badges](https://img.shields.io/badge/Space%20Foundation%20Education%20Badges-Certified-FF9900?style=flat&logo=spacefoundation)](https://www.spacefoundation.org/education/)
+[![Badgr](https://img.shields.io/badge/Badgr-Certified-4CAF50?style=flat&logo=badgr)](https://badgr.com/)
+[![Open Badges](https://img.shields.io/badge/Open%20Badges-Certified-FF5722?style=flat&logo=openbadges)](https://openbadges.org/)
 # SpaceXplore-Core
 SpaceXplore-Core is the foundational repository for the SpaceXplore: The Interstellar Exploration Initiative. It contains the core technologies and algorithms for advanced propulsion systems, autonomous robotic probes, and data transmission solutions designed for interstellar exploration. This repository serves as the central hub for development, collaboration, and integration of innovative tools and frameworks aimed at enabling robotic missions to nearby star systems and enhancing our understanding of exoplanets and their potential for habitability.
 

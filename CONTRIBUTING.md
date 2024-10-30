@@ -38,3 +38,5 @@ We appreciate your interest in contributing to the SpaceXplore-Core project! Her
 
 ## Code of Conduct
 Please adhere to our [Code of Conduct](Code of Conduct) while contributing to this project.
+
+**Thank you for your contributions!**
